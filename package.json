@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "^0.292.0",
+    "recharts": "^2.10.3"
+  },
+  "scripts": {
+    "build": "next build"
+  }
+}
